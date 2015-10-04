@@ -25,25 +25,28 @@ Open ST3 and run the command `Package Control: Install Local Dependency`
 
 ### Packages
 
-- [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
+- [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)  
 	`Command + Option + N` to create a file by giving path\filename
 
-- [Dayle Rees Color Schemes](https://github.com/daylerees/colour-schemes) 🐼
+- [Dayle Rees Color Schemes](https://github.com/daylerees/colour-schemes) 🐼  
 	Uses _solarflare_ theme by default
 
-- [Dock Blockr](https://github.com/spadgos/sublime-jsdocs)
+- [Dock Blockr](https://github.com/spadgos/sublime-jsdocs)  
 	DocBlock comments for PHP, Javascript, etc.
 
-- [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+- [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)  
 
-- [PHPCS](https://github.com/benmatselby/sublime-phpcs)
+- [PHPCS](https://github.com/benmatselby/sublime-phpcs)  
 	Should have `phpcs` [installed](http://tedshd.logdown.com/posts/246406-php-install-phpcsphp-codesniffer) and PSR strandards [setup](http://cs.sensiolabs.org/)
 
 - [PHPLint](https://github.com/SublimeLinter/SublimeLinter-phplint)
+
+- [PHP Snippets](https://github.com/gerardroche/sublime-php-snippets)  
+	Additional set of [snippets for PHP](https://github.com/gerardroche/sublime-php-snippets/blob/master/DOCUMENTATION.md)
 
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 
 - [SublimeLinter for phpcs/phplint](https://github.com/SublimeLinter/SublimeLinter-php)
 
-- [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
+- [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)  
 	Get a list of Todo comments within a script or project
