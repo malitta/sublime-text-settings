@@ -20,8 +20,6 @@
 		"php-snippets",
 		"Phpcs",
 		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-phpcs",
 		"SublimeLinter-phplint",
 		"TodoReview"
 	]
