@@ -1,4 +1,10 @@
+# ignore all file
 *
+
+# except these
 !.gitignore
 !*.sublime-*
 !README.md
+
+# but also ignore these
+1self.*
