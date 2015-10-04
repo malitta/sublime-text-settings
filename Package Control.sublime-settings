@@ -17,6 +17,9 @@
 		"Package Control",
 		"PHP Refactor",
 		"Phpcs",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"TodoReview"
 	]
 }

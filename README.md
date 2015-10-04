@@ -19,5 +19,15 @@ Clone this repository to it's User folder
 
     git clone https://github.com/malitta/sublime-text-settings.git User
 
+Open ST3 and run the command `Package Control: Install Local Dependency`
+
+## Contents
+
+### Packages
+
+PHPCS
+http://tedshd.logdown.com/posts/246406-php-install-phpcsphp-codesniffer
+http://cs.sensiolabs.org/
+
 
 
