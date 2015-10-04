@@ -28,11 +28,14 @@ Open ST3 and run the command `Package Control: Install Local Dependency`
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)  
 	`Command + Option + N` to create a file by giving path\filename
 
-- [Dayle Rees Color Schemes](https://github.com/daylerees/colour-schemes) 🐼  
+- [Dayle Rees 🐼 Color Schemes](https://github.com/daylerees/colour-schemes)  
 	Uses _solarflare_ theme by default
 
 - [Dock Blockr](https://github.com/spadgos/sublime-jsdocs)  
 	DocBlock comments for PHP, Javascript, etc.
+
+- [Goto Documentation](https://github.com/kemayo/sublime-text-2-goto-documentation)
+	`Cmnd + Shift + H` will take you to the documentation of the highlighted keyword
 
 - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)  
 
