@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Hide Files",
+		"Laravel Blade Highlighter",
+		"Laravel Generator",
+		"Package Control",
+		"PHP Refactor",
+		"Phpcs",
+		"SublimeLinter"
+	]
+}
