@@ -36,17 +36,14 @@ Open ST3 and run the command `Package Control: Install Local Dependency`
 
 - [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)  
 
-- [PHPCS](https://github.com/benmatselby/sublime-phpcs)  
-	Should have `phpcs` [installed](http://tedshd.logdown.com/posts/246406-php-install-phpcsphp-codesniffer) and PSR strandards [setup](http://cs.sensiolabs.org/)
-
 - [PHPLint](https://github.com/SublimeLinter/SublimeLinter-phplint)
+	Should have `phpcs` [installed](http://tedshd.logdown.com/posts/246406-php-install-phpcsphp-codesniffer) and PSR strandards [setup](http://cs.sensiolabs.org/)  
+	PHPCS is turned off by default but you can run it through the command `PHP Code Sniffer: Sniff this file`
 
 - [PHP Snippets](https://github.com/gerardroche/sublime-php-snippets)  
 	Additional set of [snippets for PHP](https://github.com/gerardroche/sublime-php-snippets/blob/master/DOCUMENTATION.md)
 
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
-
-- [SublimeLinter for phpcs/phplint](https://github.com/SublimeLinter/SublimeLinter-php)
 
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)  
 	Get a list of Todo comments within a script or project
