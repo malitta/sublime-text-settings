@@ -1,8 +1,11 @@
 {
-	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/solarflare.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/solarflare (SL).tmTheme",
 	"font_size": 14.0,
 	"ignored_packages":
 	[
+		"Hide Files",
+		"Laravel Generator",
+		"PHP Refactor",
 		"Vintage"
 	],
 	"word_wrap": false

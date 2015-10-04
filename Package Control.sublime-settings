@@ -2,6 +2,9 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Hide Files",
+		"Laravel Generator",
+		"PHP Refactor"
 	],
 	"installed_packages":
 	[
